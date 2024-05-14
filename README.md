@@ -50,6 +50,10 @@
                 <th>GitHub 프로필</th>
             </tr>
             <tr>
+                <td>이진순</td>
+                <td>https://github.com/lsssssssssssssss</td>
+            </tr>
+            <tr>
                 <th>이동재</th>
                 <td>https://github.com/dlehdwo01</td>
             </tr>
@@ -64,10 +68,6 @@
             <tr>
                 <td>박경빈</td>
                 <td>https://github.com/Bin2been</td>
-            </tr>
-            <tr>
-                <td>이진순</td>
-                <td>https://github.com/lsssssssssssssss</td>
             </tr>
             </table>
         </div>
@@ -94,7 +94,25 @@
         <a href="https://www.youtube.com/watch?v=WK8oGLTJD_Y">▶FOOD114 시연영상</a>
     </div>
     <div style= "text-align:left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; ">  👨‍👩‍👦‍👦 역할 분담 </h2>       
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; ">  👨‍👩‍👦‍👦 역할 분담 </h2>
+        <h3>🐯이진순</h3>
+        <ul>
+<!--             <li><h4>역할</h4>
+                <ul>                    
+                    <li>전반적인 API 기능 구현, DB 설계</li>
+                </ul>
+            </li>   -->
+            <li><h4>작업 페이지</h4>
+                <ul>                    
+                    <li>지도로 찾기, 사업자 회원가입, 사업자 가게관리(상품등록, 상품조회/수정, 이벤트 관리, 판매 통계)</li>
+                </ul>
+            </li>            
+            <li><h4>구현 기능</h4>
+                <ul>                    
+                    <li> 일일 매출 현황(차트API), 지도로 가게 검색(카카오지도API), 사업자 이벤트 등록(등록, 수정, 삭제), 사업자 상품관리(등록, 수정, 삭제), 사업자번호 진위여부 확인(국세청API)  </li>
+                </ul>
+            </li>
+        </ul>
         <h3>😎이동재</h3>            
         <ul>
 <!--             <li> <h4>역할</h4>
@@ -164,24 +182,6 @@
             <li><h4>구현 기능</h4>
                 <ul>                    
                     <li>고객 리뷰 등록, 사업자 리뷰 관리(등록, 수정, 삭제)</li>
-                </ul>
-            </li>
-        </ul>
-       <h3>🐯이진순</h3>
-        <ul>
-<!--             <li><h4>역할</h4>
-                <ul>                    
-                    <li>전반적인 API 기능 구현, DB 설계</li>
-                </ul>
-            </li>   -->
-            <li><h4>작업 페이지</h4>
-                <ul>                    
-                    <li>지도로 찾기, 사업자 회원가입, 사업자 가게관리(상품등록, 상품조회/수정, 이벤트 관리, 판매 통계)</li>
-                </ul>
-            </li>            
-            <li><h4>구현 기능</h4>
-                <ul>                    
-                    <li> 일일 매출 현황(차트API), 지도로 가게 검색(카카오지도API), 사업자 이벤트 등록(등록, 수정, 삭제), 사업자 상품관리(등록, 수정, 삭제), 사업자번호 진위여부 확인(국세청API)  </li>
                 </ul>
             </li>
         </ul>
