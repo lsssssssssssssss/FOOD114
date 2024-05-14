@@ -50,11 +50,11 @@
                 <th>GitHub 프로필</th>
             </tr>
             <tr>
-                <td>이진순</td>
+                <th>이진순</th>
                 <td>https://github.com/lsssssssssssssss</td>
             </tr>
             <tr>
-                <th>이동재</th>
+                <td>이동재</td>
                 <td>https://github.com/dlehdwo01</td>
             </tr>
             <tr>
